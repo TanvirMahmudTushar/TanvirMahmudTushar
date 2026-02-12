@@ -22,7 +22,7 @@ class TheDarkKnightOfCode:
     def __init__(self):
         self.name = "Tanvir Mahmud Tushar"
         self.role = "MLOps & GenAI Engineer"
-        self.location = "Lakshmipur, Chittagong, Bangladesh"
+        self.location = "Maijdi, Chittagong, Bangladesh"
         self.secret_identity = "Batman 🦇"
         self.current_mission = "Building AI that helps humanity"
         
@@ -44,6 +44,12 @@ class TheDarkKnightOfCode:
             "🔁 Repeat"
         ]
 ```
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3F8EF7&center=true&vCenter=true&random=false&width=600&lines=MLOps+Engineer;GenAI+Enthusiast;Full+Stack+Developer;Social+Robotics+Researcher;The+Caped+Crusader+%F0%9F%A6%87)](https://git.io/typing-svg)
+
+</div>
 
 ## 🔭 Current Mission
 
@@ -96,28 +102,31 @@ class TheDarkKnightOfCode:
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=the-capedcrusader&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=the-capedcrusader&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the-capedcrusader&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![Trophies](https://github-profile-trophy.vercel.app/?username=the-capedcrusader&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
+<a href="https://github.com/the-capedcrusader">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=the-capedcrusader&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-capedcrusader&layout=compact&langs_count=8&theme=radical"/>
+</a>
 
 </div>
 
-## 📈 Contribution Graph
-
 <div align="center">
   
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=the-capedcrusader&theme=tokyo-night&hide_border=true)](https://github.com/the-capedcrusader)
+![GitHub Streak](https://streak-stats.demolab.com/?user=the-capedcrusader&theme=radical&hide_border=false)
+
+</div>
+
+## 🏆 Achievements
+
+<div align="center">
+
+| 🎯 Focus Areas | 💪 Strength |
+|:---:|:---:|
+| MLOps & AI/ML | ⭐⭐⭐⭐⭐ |
+| GenAI Development | ⭐⭐⭐⭐⭐ |
+| Full-Stack Web | ⭐⭐⭐⭐ |
+| Robotics | ⭐⭐⭐⭐ |
+| Cloud & DevOps | ⭐⭐⭐ |
 
 </div>
 
@@ -144,6 +153,30 @@ class TheDarkKnightOfCode:
 - 🌐 Full-stack development
 - 🦾 Robotics and embedded systems
 - 🦇 Why I'm Batman
+
+## 🎯 Featured Projects
+
+<div align="center">
+
+### 🤖 [Bondhu - Social Robot](https://sites.google.com/view/bondhu-a-social-robot/)
+*AI-powered companion for mental well-being in Bengali communities*
+
+**Tech Stack:** Python • GenAI • NLP • Robotics • TensorFlow
+
+---
+
+💡 *More exciting projects coming soon! Stay tuned...*
+
+</div>
+
+## 📫 How to Reach Me
+
+- 📧 Email: **6209tanvir@gmail.com**
+- 💼 LinkedIn: **[tanvir-mahmud007](https://linkedin.com/in/tanvir-mahmud007/)**
+- 🐦 Twitter: **[@tanvirmahmud007](https://twitter.com/tanvirmahmud007)**
+- 📺 YouTube: **[CS with Tanvir](https://www.youtube.com/c/@cswithtanvir)**
+
+
 
 ## ⚡ Fun Facts
 
