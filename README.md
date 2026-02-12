@@ -1,37 +1,168 @@
-<h1 align="center">Hello, there 👋, I'm Tanvir Mahmud Tushar</h1>
-<h3 align="center">A MLOps and GenAI enthusiast</h3>
+<div align="center">
 
-<img align="right" alt="Coding" width="400"
-     src="https://raw.githubusercontent.com/the-capedcrusader/the-capedcrusader/main/assets/coding.gif">
+# 🦇 Tanvir Mahmud Tushar
 
+### MLOps Engineer | GenAI Enthusiast | The Dark Knight of Code
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=the-capedcrusader&label=Profile%20views&color=0e75b6&style=flat" alt="the-capedcrusader" /> </p>
+[![Profile Views](https://komarev.com/ghpvc/?username=the-capedcrusader&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/the-capedcrusader)
+[![Twitter Follow](https://img.shields.io/twitter/follow/tanvirmahmud007?logo=twitter&style=for-the-badge)](https://twitter.com/tanvirmahmud007)
 
-<p align="left"> <a href="https://twitter.com/tanvirmahmud007" target="blank"><img src="https://img.shields.io/twitter/follow/tanvirmahmud007?logo=twitter&style=for-the-badge" alt="tanvirmahmud007" /></a> </p>
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="600" alt="Coding Animation">
 
-- 🔭 I’m currently working on [Bondhu: A Social Robot for Mental Well-being, Learning and Safety in Bengali-Speaking Communities.](https://sites.google.com/view/bondhu-a-social-robot/)
+---
 
-- 🌱 I’m currently learning **GenAI**
+### 🌟 *"Why do we fall? So we can learn to pick ourselves up... and deploy to production."*
 
-- 💬 Ask me about **anything**
+</div>
 
-- 📫 How to reach me **6209tanvir@gmail.com**
+## 🚀 About Me
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/tanvir-mahmud007/](https://www.linkedin.com/in/tanvir-mahmud007/)
+```python
+class TheDarkKnightOfCode:
+    def __init__(self):
+        self.name = "Tanvir Mahmud Tushar"
+        self.role = "MLOps & GenAI Engineer"
+        self.location = "Maijdi, Chittagong, Bangladesh"
+        self.secret_identity = "Batman 🦇"
+        self.current_mission = "Building AI that helps humanity"
+        
+    def get_current_focus(self):
+        return {
+            "project": "Bondhu - A Social Robot",
+            "purpose": "Mental Well-being, Learning & Safety",
+            "community": "Bengali-Speaking Communities",
+            "tech_stack": ["GenAI", "MLOps", "Python", "Deep Learning"]
+        }
+    
+    def daily_routine(self):
+        return [
+            "☕ Coffee++",
+            "💻 Code intelligent systems",
+            "🤖 Train AI models",
+            "🌙 Patrol Gotham (jk, debug code)",
+            "📚 Learn cutting-edge GenAI",
+            "🔁 Repeat"
+        ]
+```
 
-- ⚡ True fact: **I'm Batman.**
+## 🔭 Current Mission
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/tanvirmahmud007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanvirmahmud007" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tanvir-mahmud007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanvir-mahmud007/" height="30" width="40" /></a>
-<a href="https://kaggle.com/tanvirmahmud2321648" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tanvirmahmud2321648" height="30" width="40" /></a>
-<a href="https://fb.com/ireallyambatmaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ireallyambatmaan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@cswithtanvir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@cswithtanvir" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/thecapedcrusader" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thecapedcrusader" height="30" width="40" /></a>
-</p>
+**[Bondhu: A Social Robot](https://sites.google.com/view/bondhu-a-social-robot/)** - Empowering Bengali-speaking communities through AI-driven mental well-being, educational support, and safety features.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 💡 What I'm Exploring
 
+- 🧠 **Generative AI** - Large Language Models, Diffusion Models, AI Agents
+- ⚙️ **MLOps** - Model deployment, monitoring, and production pipelines
+- 🤖 **Robotics** - Human-robot interaction and social robotics
+- 🔐 **Responsible AI** - Building safe, ethical, and inclusive AI systems
 
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### AI/ML & Data Science
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Web & Frameworks
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Design & Hardware
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=the-capedcrusader&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=the-capedcrusader&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the-capedcrusader&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+![Trophies](https://github-profile-trophy.vercel.app/?username=the-capedcrusader&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
+
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=the-capedcrusader&theme=tokyo-night&hide_border=true)](https://github.com/the-capedcrusader)
+
+</div>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanvir-mahmud007/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tanvirmahmud007)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/@cswithtanvir)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/tanvirmahmud2321648)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/ireallyambatmaan)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/thecapedcrusader)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:6209tanvir@gmail.com)
+
+</div>
+
+## 💬 Ask Me About
+
+- 🤖 Building and deploying ML models in production
+- 🧠 Large Language Models and Generative AI
+- 🔄 MLOps best practices and tools
+- 🐍 Python for AI/ML
+- 🌐 Full-stack development
+- 🦾 Robotics and embedded systems
+- 🦇 Why I'm Batman
+
+## ⚡ Fun Facts
+
+- 🦇 I'm Batman (no, seriously)
+- 🌙 I code best at night (classic Dark Knight behavior)
+- ☕ Coffee is my superpower
+- 🎯 I believe AI should empower everyone
+- 📚 Always learning, always growing
+
+---
+
+<div align="center">
+
+### 🌟 *"It's not who I am underneath, but what I do that defines me... and I deploy AI models."*
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+**Thanks for visiting! Let's build something amazing together! 🚀**
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fthe-capedcrusader&label=Visitors&labelColor=%23697689&countColor=%232ccce4)
+
+</div>
