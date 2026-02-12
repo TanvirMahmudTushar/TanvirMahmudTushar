@@ -22,7 +22,7 @@ class TheDarkKnightOfCode:
     def __init__(self):
         self.name = "Tanvir Mahmud Tushar"
         self.role = "MLOps & GenAI Engineer"
-        self.location = "Maijdi, Chittagong, Bangladesh"
+        self.location = "Lakshmipur, Chittagong, Bangladesh"
         self.secret_identity = "Batman 🦇"
         self.current_mission = "Building AI that helps humanity"
         
