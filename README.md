@@ -325,16 +325,35 @@ graph LR
 
 ### 🌟 *"Committed to building AI solutions that create positive impact"*
 
+<br>
+
+## 🎯 Ready to Collaborate?
+
+Whether you're looking for an **MLOps Engineer**, **GenAI Specialist**, or **Full-Stack AI Developer**, I'm ready to bring value to your team!
+
+### 📩 **Let's Talk:** [6209tanvir@gmail.com](mailto:6209tanvir@gmail.com)
+
+<br>
+
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
-### ⭐ If you find my work interesting, feel free to star my repositories!
+### ⭐ **If you find my work interesting, star my repositories!**
+### 🔔 **Follow me for updates on AI/ML projects**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TanvirMahmudTushar&repo=bondhu-social-robot&theme=radical)](https://github.com/TanvirMahmudTushar)
+<br>
 
 **Thank you for visiting my profile! Let's build something amazing together! 🚀**
 
+<br>
+
 <sub>💡 **Pro tip:** Check out my pinned repositories below for my latest work!</sub>
 
+<br>
+
 ![Profile Views](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FTanvirMahmudTushar&label=Visitors&labelColor=%23697689&countColor=%232ccce4)
+
+---
+
+<sub>⚡ **Fun fact:** I work best with a cup of coffee ☕ and challenging problems to solve!</sub>
 
 </div>
