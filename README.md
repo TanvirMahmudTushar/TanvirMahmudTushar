@@ -14,13 +14,6 @@ An MLOps enthusiast who is passionate about algorithmic problem-solving :)
 
 ---
 
-## Featured Project
-
-**[Bondhu — A Social Robot](https://sites.google.com/view/bondhu-a-social-robot/)**  
-An AI companion designed for Bengali-speaking communities, offering emotional support, interactive learning, and safety monitoring through natural language understanding and computer vision.
-
----
-
 ## Currently Exploring
 
 Advanced GenAI architectures · Transformer fine-tuning · Production MLOps · Human-Robot Interaction
