@@ -22,4 +22,4 @@ Advanced GenAI architectures · Transformer fine-tuning · Production MLOps · H
 
 ## Connect
 
-[Email](mailto:6209tanvir@gmail.com) · [LinkedIn](https://linkedin.com/in/tanvir-mahmud007/) · [GitHub](https://github.com/TanvirMahmudTushar) · [Kaggle](https://kaggle.com/tanvirmahmud2321648) · [YouTube](https://www.youtube.com/c/@cswithtanvir)
+[Email](mailto:6209tanvir@gmail.com) · [LinkedIn](https://linkedin.com/in/tanvir-mahmud007/) · [GitHub](https://github.com/TanvirMahmudTushar) · [Kaggle](https://kaggle.com/tanvirmahmud2321648) · [YouTube](https://www.youtube.com/@NerdHerd_007/)
