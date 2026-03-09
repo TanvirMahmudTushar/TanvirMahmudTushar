@@ -9,7 +9,7 @@ An MLOps enthusiast who is passionate about algorithmic problem-solving :)
 **AI/ML** — TensorFlow, PyTorch, scikit-learn, Computer Vision, NLP, LLMs  
 **MLOps** — Model deployment, pipeline automation, monitoring, Docker  
 **GenAI** — RAG systems, prompt engineering, LLM fine-tuning  
-**Web** — Python, Django, React, Node.js, PostgreSQL  
+**Web** — Python, FastAPI, Django, React, Node.js, PostgreSQL  
 **Hardware** — Arduino, Raspberry Pi
 
 ---
