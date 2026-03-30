@@ -11,6 +11,7 @@ An MLOps enthusiast who is passionate about algorithmic problem-solving :)
 
 | Award | Competition |
 |-------|-------------|
+| 🥇 Champion | AI Innovation Talent Hunt 2025 Hackathon |
 | 🥇 Champion | IUT Automech 2025 Hackathon |
 | 🥉 2nd Runner-up | NSU FutureBuilders Hackathon 2025 |
 | 🥈 1st Runner-up | NASA Space Apps Challenge 2024 — **Global Nominee** |
