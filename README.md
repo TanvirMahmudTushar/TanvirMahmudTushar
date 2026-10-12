@@ -11,13 +11,16 @@ An MLOps enthusiast who is passionate about algorithmic problem-solving :)
 
 | Award | Competition |
 |-------|-------------|
-| 🥇 Champion | AI Innovation Talent Hunt 2025 Hackathon |
-| 🥇 Champion | IUT Automech 2025 Hackathon |
-| 🥉 2nd Runner-up | NSU FutureBuilders Hackathon 2025 |
-| 🥈 1st Runner-up | NASA Space Apps Challenge 2024 — **Global Nominee** |
 | 🎯 Finalist | ICPC Dhaka Regional 2024 |
 | 🎯 Finalist | National Collegiate Programming 2023 |
+| 🥇 Champion | IUT Automech 2025 Hackathon |
+| 🥉 2nd Runner-up | NSU FutureBuilders Hackathon 2025 |
+| 🥇 Champion | AI Innovation Talent Hunt 2025 Hackathon |
 | 🎯 Finalist | SUST IUPC 2023, IUT IUPC 2023, UIU IUPC 2024, BUET IUPC 2026 |
+| 🥈 1st Runner-up | NASA Space Apps Challenge 2024 — **Global Nominee** |
+
+
+
 
 
 ---
