@@ -19,15 +19,6 @@ An MLOps enthusiast who is passionate about algorithmic problem-solving :)
 | 🎯 Finalist | National Collegiate Programming 2023 |
 | 🎯 Finalist | SUST IUPC 2023, IUT IUPC 2023, UIU IUPC 2024, BUET IUPC 2026 |
 
-### 🤖 Other Competitions
-
-| Award | Competition |
-|-------|-------------|
-| 🥈 1st Runner-up | 5th International Robo Tech Olympiad |
-| 🎯 Finalist | UIU Blockchain Olympiad |
-| 🎯 Finalist | NDAC-2025 |
-| 🎯 Semi-Finalist | ICT Olympiad 2024 |
-| 📊 Ranked 47th / 108 | KUET Bitfest Datathon 2024 (Individual) |
 
 ---
 
